@@ -20,7 +20,7 @@ Before setting up the Spring Boot API Gateway with Keycloak, ensure you have the
 
 ## 📌 Keycloak Setup
 
-- Keycloak Server running locally (http://localhost:8080) or hosted remotely
+- Keycloak Server running locally (http://localhost:8080) or hosted remotely (Run via docker https://www.keycloak.org/getting-started/getting-started-docker)
 - A Realm created (e.g., springboot-api-gateway)
 - A Client created with:
 - Client ID: api-gateway-client
